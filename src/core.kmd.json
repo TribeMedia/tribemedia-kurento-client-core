@@ -19,10 +19,10 @@
         "mavenVersion": "6.0.0-SNAPSHOT"
       },
       "js": {
-        "nodeName": "kurento-client-core",
+        "nodeName": "tribemedia-kurento-client-core",
         "npmDescription": "Base classes for kurento media server api",
-        "npmGit": "Kurento/kurento-client-core-js",
-        "npmVersion": "Kurento/kurento-client-core-js"
+        "npmGit": "Kurento/tribemedia-kurento-client-core",
+        "npmVersion": "Kurento/tribemedia-kurento-client-core"
       }
     },
     "implementation": {

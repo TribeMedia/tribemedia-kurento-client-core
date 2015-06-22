@@ -1,4 +1,4 @@
-kurento-client-core
+tribemedia-kurento-client-core
 ============
 Base classes for kurento media server api
 

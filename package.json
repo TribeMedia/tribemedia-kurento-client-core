@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "TribeMedia/kurento-client-core-js"
+    "url": "TribeMedia/tribemedia-kurento-client-core"
   },
   "keywords": [
     "Kurento",
